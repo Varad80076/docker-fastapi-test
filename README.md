@@ -2,6 +2,16 @@
 
 ---
 
+## For Instant Run 
+- Run Docker-compose file using build command
+- First Run docker login command to login
+- docker-compose up --build # It's download image and run container
+- docker-compse down # to remove container
+- docker-compose up  # to run container
+
+---
+---
+
 ## Prerequisites
 - Python 3.10 or later
 - `pip` (Python package manager)
